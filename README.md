@@ -11,6 +11,7 @@ The project aims to:
 - Provide **interactive date filtering** to explore custom time frames
 
 ---
+![Energy Demand Dashboard](./Screenshots/output.png)
 
 ## 📊 Dashboard Components
 
